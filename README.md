@@ -17,4 +17,4 @@
 4. Click the action button to begin the injection process.
 
 ## DISCLAIMER
-This project is for educational purposes only. Use of software modifications in online games may violate the Terms of Service. Use at your own risk.
+I have nothing to do with the DLL file; I am only the creator of the loader.
