@@ -1,6 +1,6 @@
 # $OURCE MAFIA
 
-Minimalist loader and injector for Counter-Strike. Built with C# and WPF.
+
 
 ## FEATURES
 * **Embedded Injection:** DLL is packed directly within the executable (no external file dependencies).
