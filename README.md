@@ -1,1 +1,32 @@
-# SourceLoader
+# $OURCE MAFIA
+
+Minimalist loader and injector for Counter-Strike. Built with C# and WPF.
+
+## FEATURES
+* **Embedded Injection:** DLL is packed directly within the executable (no external file dependencies).
+* **Cloud Manager:** Integrated file system for managing local configuration files.
+* **Responsive UI:** Custom WPF layout with fluid animations.
+* **Process Watcher:** Automatic detection of the target process (csgo.exe).
+
+## REQUIREMENTS
+* **Visual Studio 2026** (or newer)
+* **.NET Desktop Runtime**
+* **Administrator Privileges** (Required for memory injection)
+
+## SETUP
+1. Clone the repository to your local machine.
+2. Place your `neverlose.dll` file in the project root folder.
+3. In Visual Studio, set the DLL file properties:
+   - **Build Action:** `Embedded Resource`
+4. Build the solution in `Release` configuration.
+
+## USAGE
+> **Note:** You MUST run the compiled executable as **Administrator** for the injection to work.
+
+1. Launch `$ourceMafia.exe`.
+2. Wait for the initialization sequence to complete.
+3. Select your configuration from the cloud directory interface.
+4. Click the action button to begin the injection process.
+
+## DISCLAIMER
+This project is for educational purposes only. Use of software modifications in online games may violate the Terms of Service. Use at your own risk.
