@@ -11,7 +11,7 @@
 ## USAGE
 > **Note:** You MUST run the compiled executable as **Administrator** for the injection to work.
 
-1. Launch `$ourceMafia.exe`.
+1. Launch `$ourceLoader.exe`.
 2. Wait for the initialization sequence to complete.
 3. Select your configuration from the cloud directory interface.
 4. Click the action button to begin the injection process.
